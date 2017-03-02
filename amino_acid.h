@@ -12,8 +12,8 @@
 
 using namespace std;
 
-#define NUM_RESIDULE_TYPE 23                        //total number of residue types
-#define NUM_ATOM_TYPE 39                           //total number of atom types
+#define NUM_RESIDULE_TYPE 23   //total number of residue types
+#define NUM_ATOM_TYPE 39      //total number of atom types
 //ordered three letter code
 const char rname_three_rank[NUM_RESIDULE_TYPE][4]={
 "ALA","ARG","ASN","ASP","ASX","CYS", // ARNDBC
